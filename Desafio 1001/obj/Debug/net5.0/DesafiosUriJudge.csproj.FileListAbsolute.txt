@@ -1,0 +1,32 @@
+D:\Projetos\DesafiosUriJudge\bin\Debug\net5.0\DesafiosUriJudge.exe
+D:\Projetos\DesafiosUriJudge\bin\Debug\net5.0\DesafiosUriJudge.deps.json
+D:\Projetos\DesafiosUriJudge\bin\Debug\net5.0\DesafiosUriJudge.runtimeconfig.json
+D:\Projetos\DesafiosUriJudge\bin\Debug\net5.0\DesafiosUriJudge.runtimeconfig.dev.json
+D:\Projetos\DesafiosUriJudge\bin\Debug\net5.0\DesafiosUriJudge.dll
+D:\Projetos\DesafiosUriJudge\bin\Debug\net5.0\ref\DesafiosUriJudge.dll
+D:\Projetos\DesafiosUriJudge\bin\Debug\net5.0\DesafiosUriJudge.pdb
+D:\Projetos\DesafiosUriJudge\obj\Debug\net5.0\DesafiosUriJudge.csprojAssemblyReference.cache
+D:\Projetos\DesafiosUriJudge\obj\Debug\net5.0\DesafiosUriJudge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DesafiosUriJudge\obj\Debug\net5.0\DesafiosUriJudge.AssemblyInfoInputs.cache
+D:\Projetos\DesafiosUriJudge\obj\Debug\net5.0\DesafiosUriJudge.AssemblyInfo.cs
+D:\Projetos\DesafiosUriJudge\obj\Debug\net5.0\DesafiosUriJudge.csproj.CoreCompileInputs.cache
+D:\Projetos\DesafiosUriJudge\obj\Debug\net5.0\DesafiosUriJudge.dll
+D:\Projetos\DesafiosUriJudge\obj\Debug\net5.0\ref\DesafiosUriJudge.dll
+D:\Projetos\DesafiosUriJudge\obj\Debug\net5.0\DesafiosUriJudge.pdb
+D:\Projetos\DesafiosUriJudge\obj\Debug\net5.0\DesafiosUriJudge.genruntimeconfig.cache
+D:\Projetos\DesafiosUriJudge\Desafio 1001\bin\Debug\net5.0\DesafiosUriJudge.exe
+D:\Projetos\DesafiosUriJudge\Desafio 1001\bin\Debug\net5.0\DesafiosUriJudge.deps.json
+D:\Projetos\DesafiosUriJudge\Desafio 1001\bin\Debug\net5.0\DesafiosUriJudge.runtimeconfig.json
+D:\Projetos\DesafiosUriJudge\Desafio 1001\bin\Debug\net5.0\DesafiosUriJudge.runtimeconfig.dev.json
+D:\Projetos\DesafiosUriJudge\Desafio 1001\bin\Debug\net5.0\DesafiosUriJudge.dll
+D:\Projetos\DesafiosUriJudge\Desafio 1001\bin\Debug\net5.0\ref\DesafiosUriJudge.dll
+D:\Projetos\DesafiosUriJudge\Desafio 1001\bin\Debug\net5.0\DesafiosUriJudge.pdb
+D:\Projetos\DesafiosUriJudge\Desafio 1001\obj\Debug\net5.0\DesafiosUriJudge.csprojAssemblyReference.cache
+D:\Projetos\DesafiosUriJudge\Desafio 1001\obj\Debug\net5.0\DesafiosUriJudge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DesafiosUriJudge\Desafio 1001\obj\Debug\net5.0\DesafiosUriJudge.AssemblyInfoInputs.cache
+D:\Projetos\DesafiosUriJudge\Desafio 1001\obj\Debug\net5.0\DesafiosUriJudge.AssemblyInfo.cs
+D:\Projetos\DesafiosUriJudge\Desafio 1001\obj\Debug\net5.0\DesafiosUriJudge.csproj.CoreCompileInputs.cache
+D:\Projetos\DesafiosUriJudge\Desafio 1001\obj\Debug\net5.0\DesafiosUriJudge.dll
+D:\Projetos\DesafiosUriJudge\Desafio 1001\obj\Debug\net5.0\ref\DesafiosUriJudge.dll
+D:\Projetos\DesafiosUriJudge\Desafio 1001\obj\Debug\net5.0\DesafiosUriJudge.pdb
+D:\Projetos\DesafiosUriJudge\Desafio 1001\obj\Debug\net5.0\DesafiosUriJudge.genruntimeconfig.cache
