@@ -10,7 +10,6 @@ namespace Desafio_1003
             int B = int.Parse(Console.ReadLine());
 
             System.Console.WriteLine("SOMA = {0}", A+B);
-
         }
     }
 }

@@ -1,0 +1,16 @@
+D:\Projetos\DesafiosUriJudge\Desafio_1006\bin\Debug\net5.0\Desafio_1006.exe
+D:\Projetos\DesafiosUriJudge\Desafio_1006\bin\Debug\net5.0\Desafio_1006.deps.json
+D:\Projetos\DesafiosUriJudge\Desafio_1006\bin\Debug\net5.0\Desafio_1006.runtimeconfig.json
+D:\Projetos\DesafiosUriJudge\Desafio_1006\bin\Debug\net5.0\Desafio_1006.runtimeconfig.dev.json
+D:\Projetos\DesafiosUriJudge\Desafio_1006\bin\Debug\net5.0\Desafio_1006.dll
+D:\Projetos\DesafiosUriJudge\Desafio_1006\bin\Debug\net5.0\ref\Desafio_1006.dll
+D:\Projetos\DesafiosUriJudge\Desafio_1006\bin\Debug\net5.0\Desafio_1006.pdb
+D:\Projetos\DesafiosUriJudge\Desafio_1006\obj\Debug\net5.0\Desafio_1006.csprojAssemblyReference.cache
+D:\Projetos\DesafiosUriJudge\Desafio_1006\obj\Debug\net5.0\Desafio_1006.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\DesafiosUriJudge\Desafio_1006\obj\Debug\net5.0\Desafio_1006.AssemblyInfoInputs.cache
+D:\Projetos\DesafiosUriJudge\Desafio_1006\obj\Debug\net5.0\Desafio_1006.AssemblyInfo.cs
+D:\Projetos\DesafiosUriJudge\Desafio_1006\obj\Debug\net5.0\Desafio_1006.csproj.CoreCompileInputs.cache
+D:\Projetos\DesafiosUriJudge\Desafio_1006\obj\Debug\net5.0\Desafio_1006.dll
+D:\Projetos\DesafiosUriJudge\Desafio_1006\obj\Debug\net5.0\ref\Desafio_1006.dll
+D:\Projetos\DesafiosUriJudge\Desafio_1006\obj\Debug\net5.0\Desafio_1006.pdb
+D:\Projetos\DesafiosUriJudge\Desafio_1006\obj\Debug\net5.0\Desafio_1006.genruntimeconfig.cache
